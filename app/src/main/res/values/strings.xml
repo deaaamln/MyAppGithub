@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyAppGithub</string>
+    <string name="searchbar_hint">Input Username</string>
+    <string name="tab_2">Following</string>
+    <string name="tab_1">Followers</string>
+
+    <string name="action_bar">Github User Account</string>
+    <string name="logoGithub">Github Logo</string>
+
+    <string name="status_info">Click and Type to Search Users</string>
+    <string name="searching_status_info">Searching…</string>
+    <string name="instruction_status_info">Click and Type to Search Users</string>
+    <string name="users_found_status_info">Users Found</string>
+    <string name="user_not_found_status_info">User not Found</string>
+    <string name="search_username">Search Username</string>
+
+    <string name="followers_text">%1\$s Followers</string>
+    <string name="following_text">%1\$s Following</string>
+
+    <string name="favorit">Halaman Favorit</string>
+    <string name="setting">Halaman Setting</string>
+    <string name="save_favorit">Save Favorit</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_user">Favorite Github Account</string>
+    <string name="fab_favorite">Fab Favorite</string>
+</resources>

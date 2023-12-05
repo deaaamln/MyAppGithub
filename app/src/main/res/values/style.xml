@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Contents theme. -->
+    <style name="BackgroundUser">
+        <item name="android:background">#333333</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="BackgroundViewPagerUserItem">
+        <item name="android:background">#606060</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="TextViewUsername">
+        <item name="android:textColor">@color/colorUsernameText</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dp</item>
+    </style>
+
+    <style name="TextViewContent">
+        <item name="android:textColor">@color/colorTextContent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="TextViewContent.TextViewInfo">
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+</resources>

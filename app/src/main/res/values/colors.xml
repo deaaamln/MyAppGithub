@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#F9EEFF</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorUsernameText">@android:color/holo_blue_dark</color>
+    <color name="colorTextContent">@android:color/white</color>
+    <color name="text_color_light">#000000</color>
+    <color name="text_color_dark">#FFFFFF</color>
+    <color name="toolbar">#D1CACA</color>
+</resources>
